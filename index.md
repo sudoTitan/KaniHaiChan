@@ -10,9 +10,9 @@
 
 ## どこで遊べますか？
 
-* WebGL     : https://sudotitan.github.io/KaniHaiChan/
-* iOS       : https://apps.apple.com/jp/app/%E3%82%AB%E3%83%8B%E3%83%8F%E3%82%A4%E3%81%A1%E3%82%83%E3%82%93-vs-%E3%82%BB%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%B3/id6458646544
-* Android   : https://play.google.com/store/apps/details?id=com.sudoTitan.Kanihaichan
+* [WebGL](https://sudotitan.github.io/KaniHaiChan/)
+* [iOS](https://apps.apple.com/us/app/id6458646544)
+* [Android](https://play.google.com/store/apps/details?id=com.sudoTitan.Kanihaichan)
 
 ## 操作方法
 
