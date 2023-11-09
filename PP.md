@@ -37,6 +37,10 @@
 
 * 送信する項目: https://www.apple.com/jp/legal/privacy/data/ja/game-center/
 
+## 改訂履歴
+
+2023/11/9 改訂
+
 <!--
 
 ### ?
